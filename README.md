@@ -1,4 +1,4 @@
-# nand2tetris
+# nand2tetris - Build a computer from its fundamental blocks
 Repository with files I developed during a computer arquitechture course on Coursera
 
 ## Arithmetic Logic Unit
